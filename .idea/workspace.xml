@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5158740a-2f77-4406-8bdd-81189dad55a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vue-laravel-timetracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vue-laravel-timetracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="5158740a-2f77-4406-8bdd-81189dad55a2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +171,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -207,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584471720274</updated>
       <workItem from="1584471730576" duration="2350000" />
-      <workItem from="1584474413677" duration="648000" />
+      <workItem from="1584474413677" duration="801000" />
     </task>
     <servers />
   </component>
@@ -227,10 +210,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="417" y="180" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1584473884510" />
-    <state x="551" y="134" key="FileChooserDialogImpl" timestamp="1584474977971">
+    <state x="551" y="134" key="FileChooserDialogImpl" timestamp="1584475214786">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="551" y="134" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584474977971" />
+    <state x="551" y="134" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584475214786" />
     <state width="1323" height="195" key="GridCell.Tab.0.bottom" timestamp="1584474668958">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -247,10 +230,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="195" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584474668958" />
-    <state x="184" y="27" key="SettingsEditor" timestamp="1584474721580">
+    <state x="184" y="27" key="SettingsEditor" timestamp="1584475216226">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584474721580" />
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584475216226" />
     <state x="354" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584474418357">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
